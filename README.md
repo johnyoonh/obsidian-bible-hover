@@ -1,6 +1,4 @@
 # Bible Hover Obsidian Plugin
-> Note: This project is heavily vibe-coded 
-
 Hover over Bible references (e.g., `John 3:16`, `요 3:16`) to display the verse in a popover. Click on the reference to navigate directly to the verse in your Bible file. Works fully offline.
 
 성경 구절(예: `마태복음 11:12`, `John 3:16`) 위에 마우스를 올리면 팝업창에 해당 구절이 표시됩니다. 구절을 클릭하면 성경 파일의 해당 위치로 바로 이동합니다. 완전히 오프라인으로 작동합니다.
